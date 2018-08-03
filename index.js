@@ -4,4 +4,4 @@ function happyHolidays() {
 }
 
 function happyHolidaysto(name) {
-  co
+  console.log 
