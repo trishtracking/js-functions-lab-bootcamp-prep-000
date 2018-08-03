@@ -3,4 +3,5 @@ function happyHolidays() {
   console.log("Happy Holidays!")
 }
 
-function happyHolidaysto() {
+function happyHolidaysto(name) {
+  co
