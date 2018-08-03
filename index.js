@@ -3,5 +3,5 @@ function happyHolidays() {
   console.log("Happy Holidays!")
 }
 
-function happyHolidaysto(name) {
-  console.log (`Hello, $(name)
+function happyHolidaysto(firstName) {
+  console.log (`Hello, ${firstName}
