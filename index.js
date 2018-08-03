@@ -4,4 +4,4 @@ function happyHolidays() {
 }
 
 function happyHolidaysto(name) {
-  console.log (`Hello,)
+  console.log (`Hello, $(name)
