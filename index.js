@@ -11,4 +11,6 @@ function happyHolidayto(holiday, firstName) {
   return (`Happy ${holiday}, ${firstName}!`)
 }
 
-function holidayCountdown(days, )
+function holidayCountdown(days, holiday) {
+  return (`It\s )
+}
